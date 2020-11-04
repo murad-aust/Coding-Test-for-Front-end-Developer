@@ -17,11 +17,11 @@ const Navbar = () => {
                     <Link className="nav-link text-bol " style={{fontWeight:'bold'}}  to="/">Task-1</Link> 
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link" style={{fontWeight:'bold'}}  to="/imagePreview">Task-2</Link> 
+                    <Link className="nav-link" style={{fontWeight:'bold'}}  to="/imagePreview">Task-2&3</Link> 
                 </li>
                 
                 <li className="nav-item">
-                    <Link className="nav-link" style={{fontWeight:'bold'}} to="/draggable">Task-4</Link> 
+                    <Link className="nav-link" style={{fontWeight:'bold'}} to="/draggable">Task-4&5&6</Link> 
                 </li>
                 </ul>
                
