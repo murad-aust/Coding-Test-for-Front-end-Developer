@@ -1,6 +1,7 @@
 import React from 'react';
 import './Footer.css'
 
+
 const Footer = () => {
     return (
         <section className="footer " >
@@ -29,6 +30,7 @@ const Footer = () => {
                 </div>
                
                     <div className="copyRight text-center ">
+                   
                         <p>copyright {(new Date()).getFullYear()} || Murad</p>
                     </div>
             </div>   

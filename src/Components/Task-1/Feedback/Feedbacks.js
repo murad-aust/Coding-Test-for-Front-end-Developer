@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import Feedback from './Feedback';
 import './Feedbacks.css';
 import user from '../../../images/user.png';

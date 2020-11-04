@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Service from '../Service/Service';
 import './Services.css'
-import { useEffect } from 'react';
 import sw from '../../../images/icons/service3.png'
 import web from '../../../images/icons/service1.png'
 import it from '../../../images/icons/service5.png'
